@@ -1,0 +1,35 @@
+{
+  "name": "dark-contra",
+  "displayName": "dark contra",
+  "description": "minimal dark theme made for VS code",
+  "icon": "images/c.png",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "repository": {
+    "url": "https://github.com/xgreenapple/dark-contra"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark contra",
+    "dark",
+    "burple",
+    "black",
+    "fleet"
+
+  ],
+  "publisher": "0xgreenapple",
+
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark contra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black contra-color-theme.json"
+      }
+    ]
+  }
+}
