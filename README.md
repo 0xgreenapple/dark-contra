@@ -1,5 +1,5 @@
 # dark contra 
-minimal dark theme made for VS code
+A minimal dark theme made for VS code
 
 ![](https://raw.githubusercontent.com/xgreenapple/dark-contra/main/images/dark-contra)
 
